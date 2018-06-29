@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "text",
+"dataUrl": "finalgame.data.unityweb",
+"asmCodeUrl": "finalgame.asm.code.unityweb",
+"asmMemoryUrl": "finalgame.asm.memory.unityweb",
+"asmFrameworkUrl": "finalgame.asm.framework.unityweb",
+"TOTAL_MEMORY": 1056964608,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
